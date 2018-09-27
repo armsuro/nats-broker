@@ -1,0 +1,16 @@
+{
+  "name": "broker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suren Gasparyan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "nats": "^1.0.0"
+  }
+}
